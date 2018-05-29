@@ -1,0 +1,26 @@
+{
+  "name": "@andrew-t-james/making-node-module",
+  "version": "1.0.0",
+  "description": "Bubble Sort",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrew-t-james/making-node-module.git"
+  },
+  "author": "Andrew James <ajames20@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrew-t-james/making-node-module/issues"
+  },
+  "homepage": "https://github.com/andrew-t-james/making-node-module#readme",
+  "devDependencies": {
+    "chai": "4.1.2",
+    "mocha": "5.2.0"
+  }
+}
